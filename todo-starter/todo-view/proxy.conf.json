@@ -1,6 +1,6 @@
 {
   "/local_server/*": {
-    "target": "http://localhost:3000",
+    "target": "http://amaxj95-ideal-trout-4gjr9x997px37596-3000.preview.app.github.dev/:3000",
     "secure": false,
     "logLevel": "debug",
     "changeOrigin": true,

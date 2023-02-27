@@ -12,7 +12,7 @@ exports.config = {
     'browserName': 'chrome'
   },
   directConnect: true,
-  baseUrl: 'http://localhost:4200/',
+  baseUrl: 'http://amaxj95-ideal-trout-4gjr9x997px37596-4200.preview.app.github.dev/:4200/',
   framework: 'jasmine',
   jasmineNodeOpts: {
     showColors: true,
